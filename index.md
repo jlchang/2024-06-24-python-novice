@@ -449,6 +449,6 @@ during the workshop.
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% elsif site.carpentry == "incubator" %}
-Please check the <a href = "https://jlchang.github.io/2024-05-09-Unix_Shell_pilot/#terminal-setup">"Setup" section</a>
+Please check the <a href = "https://jlchang.github.io/2024-06-21-unix-shell-lesson/#terminal-setup">"Setup" section</a>
 of the lesson homepage for instructions to obtain the software and data you will need to follow the lesson.
 {% endif %}

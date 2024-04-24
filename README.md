@@ -64,8 +64,8 @@ A few minutes later, you can go to the GitHub Pages URL for your workshop site a
 
 <!--links set up for this session-->
 <!-- leaving session-lesson links using 2024-05-09 info until new repo created -->
-[session-lesson-link]: https://jlchang.github.io/2024-05-09-Unix_Shell_pilot/
-[session-lesson-github-link]: https://github.com/jlchang/2024-05-09-Unix_Shell_pilot
+[session-lesson-link]: https://jlchang.github.io/2024-06-21-unix-shell-lesson/
+[session-lesson-github-link]: https://github.com/jlchang/2024-06-21-unix-shell-lesson
 [session-website]: https://broadinstitute.github.io/2024-06-21-Unix_Shell/
 
 <!--persistent links-->
