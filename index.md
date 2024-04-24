@@ -177,7 +177,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  They may need to have a few specific software packages installed (see <a href="#setup">below</a>).
 </p>
 
 {% comment %}
@@ -449,6 +449,6 @@ during the workshop.
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% elsif site.carpentry == "incubator" %}
-Please check <a href = "https://jlchang.github.io/2024-05-09-Unix_Shell_pilot/#terminal-setup">the "Setup" section</a>
+Please check the <a href = "https://jlchang.github.io/2024-05-09-Unix_Shell_pilot/#terminal-setup">"Setup" section</a>
 of the lesson homepage for instructions to obtain the software and data you will need to follow the lesson.
 {% endif %}
