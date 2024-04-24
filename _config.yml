@@ -1,3 +1,4 @@
+---
 #------------------------------------------------------------
 # Values for this workshop.
 #------------------------------------------------------------
@@ -5,7 +6,7 @@
 # More detailed instructions are available at:
 # https://carpentries.github.io/workshop-template/customization/index.html
 
-# Which carpentry is this ("swc", "dc", "lc", or "cp")?
+# Which carpentry is this ("swc", "dc", "lc", or "cp")? Adding "cb" for custom Broad content.
 # swc: Software Carpentry
 #  dc: Data Carpentry
 #  lc: Library Carpentry
@@ -18,7 +19,7 @@
 # When setting this field to "incubator", please uncomment the
 # incubator_lesson_site, incubator_pre_survey, and incubator_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
-carpentry: "swc"
+carpentry: "incubator"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
@@ -53,20 +54,20 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "The Unix Shell"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
 # in The Carpentries Incubator).
 #
 # For an Incubator workshop, uncomment the line below and add the URL of the lesson site.
-# incubator_lesson_site: "put the URL of the lesson being taught here"
+incubator_lesson_site: "https://jlchang.github.io/2024-05-09-Unix_Shell_pilot/"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
-# incubator_pre_survey: "put the URL of your pre-workshop survey here"
+incubator_pre_survey: "https://docs.google.com/forms/d/e/1FAIpQLSdu2ExmlktX_DIllyt0yLqJizYs3XxWVMvNOyiUhrVM3qHEeQ/viewform"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your post-workshop survey
-# incubator_post_survey: "put the URL of your post-workshop survey here"
+incubator_post_survey: "https://docs.google.com/forms/d/e/1FAIpQLSeTitHH1nWt-8hv-6hFamqkv8Yd5c3TVx3V-9ASUgVrQ_JKlg/viewform"
 #
 #------------------------------------------------------------
 
